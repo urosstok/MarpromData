@@ -1,0 +1,29 @@
+46.559671;15.647798;Tobačna 3DVA;Grajski trg 1
+46.533460;15.667469;Tobačna 3DVA;Prvomajska 25
+46.543050;15.634923;Tobačna 3DVA;Cesta zmage 102
+46.563067;15.629451;Tobačna 3DVA;Gosposvetska cesta 84
+46.553683;15.642206;Tobačna 3DVA;Moše Pijade 25
+46.560495;15.650273;Tobačna 3DVA;Partizanska cesta 3-5 (pri Modni hiši)
+46.562203;15.658460;Tobačna 3DVA(Železniška p.);Partizanska cesta 50
+46.557939;15.645611;Tobačna 3DVA;Glavni trg 14
+46.559100;15.650304;Tobačna 3DVA;TPC City, Ulica Vita Kraigherja 5
+46.554593;15.645545;Tobačna 3DVA;Trg revolucije 9
+46.560608;15.646461;Tobačna 3DVA;Tyrševa ulica 1
+46.539835;15.637607;Tobačna 3DVA;Goriška ulica
+46.559161;15.641506;Tobačna 3DVA;Smetanova ulica
+46.544679;15.648588;Tobačna 3DVA;Titova cesta 50
+46.561278;15.634053;Tobačna 3DVA;Gosposvetska cesta 43
+46.561848;15.655799;Delo Prodaja;Trg Borisa Kidriča 2
+46.557355;15.646813;Delo Prodaja;Glavni trg(Kiosk AP)
+46.559230;15.651347;Delo Prodaja;Modna hiša
+46.559183;15.648177;Delo Prodaja;Vetrinjska ulica
+46.542666;15.633974;Delo Prodaja;Cesta Proletarskih brigad
+46.573160;15.612251;Papirnica Urban;Cesta v Rošpoh 22, Kamnica
+46.545926;15.643578;Papirnica Svinčnik;Ljubljanska ulica 42
+46.521694;15.705696;Trgovina Brigita;Dupleška cesta 255
+46.546516;15.671869;Kiosk Narcisa;Cesta XIV. divizije 77
+46.522549;15.653527;Bar Miška(E'leclerc);Tržaška cesta 67a
+46.559532;15.655634;AP Mlinska;Mlinska ulica 1
+46.557901;15.643518;Mestna Blagajna;Koroška cesta 10
+46.560284;15.650515;TIC;Partizanska cesta 6
+46.533116;15.599366;Blagajna pohorske vzpenjače;Pohorska ulica 60
