@@ -251,24 +251,24 @@ Zvezna ulica;46.537056;15.596948
 ŽP Studenci;46.554546;15.635401
 ŽP Tezno;46.539888;15.650973
 
-1;Tezno
-2;Betnavska - Razvanje
-3;Dobrava-Tezno-Gosposvetska rondo-Maribor AP-Dobrava
-4;Studenci-Limbuš
-6;Vzpenjača
-7;Kamnica
-8;Maribor AP -Terme Fontana 
-9;Zrkovci-Dogoše
-10;Malečnik-Metava
-12;Dobrava-Pobrežje-AP Mlinska-Gosposvetska rondo-Dobrava
-13;Črnogorska
-15;Bresternica
-151;Gaj nad Mariborom
-16;Dogoše-Zg. Duplek
-17;Ribniško selo - Studenci
-18;Pekre
-19;Šarhova
-20;Grušova
-21;Ljubljanska-Tržaška c. - Merkur
-K1;Krožna linija 1
-K2;Krožna linija 2
+1;Tezno;01
+2;Betnavska - Razvanje;02
+3;Dobrava-Tezno-Gosposvetska rondo-Maribor AP-Dobrava;03
+4;Studenci-Limbuš;04
+6;Vzpenjača;06
+7;Kamnica;07
+8;Maribor AP -Terme Fontana;08
+9;Zrkovci-Dogoše;09
+10;Malečnik-Metava;10
+12;Dobrava-Pobrežje-AP Mlinska-Gosposvetska rondo-Dobrava;12
+13;Črnogorska;13
+15;Bresternica;15
+151;Gaj nad Mariborom;151
+16;Dogoše-Zg. Duplek;16
+17;Ribniško selo - Studenci;17
+18;Pekre;18
+19;Šarhova;19
+20;Grušova;20
+21;Ljubljanska-Tržaška c. - Merkur;21
+K1;Krožna linija 1;4122
+K2;Krožna linija 2;4123
